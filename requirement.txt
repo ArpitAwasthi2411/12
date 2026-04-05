@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-numpy
-librosa
-scipy
+flask>=3.0
+librosa>=0.10
+numpy>=1.24
+soundfile>=0.12
+scipy>=1.11
